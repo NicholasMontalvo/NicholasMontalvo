@@ -1,6 +1,6 @@
 # Nicholas Montalvo
 
-**'Digital Craftsman (Amatuer Ai Developer/photogropher/Enthusiast)'**
+**`Digital Craftsman (Amatuer Ai Developer/photogropher/Enthusiast)`**
 
 <!--
 **NicholasMontalvo/NicholasMontalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
