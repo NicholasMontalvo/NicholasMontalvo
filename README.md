@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/NicholasMontalvo/NicholasMontalvo/blob/main/github-header-image.png" alt="Header">
+</p>
 <h1 align="center">Hi 👋, I'm Nicholas Montalvo</h1>
 <h3 align="center">A passionate and aspiring Software Engineer from California.</h3>
 
